@@ -1,0 +1,7 @@
+SmsBaza\Application.class
+SmsBaza\controller\PersonController.class
+SmsBaza\dao\PesonDaoImp.class
+SmsBaza\service\PersonService.class
+SmsBaza\model\Person.class
+SmsBaza\dao\PersonDao.class
+SmsBaza\service\PersonServiceImp.class
